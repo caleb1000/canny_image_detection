@@ -14,11 +14,14 @@ TO:DO <br />
 Original Image <br />
 ![image](https://user-images.githubusercontent.com/30327564/197315137-20a25181-5c3a-4861-882f-9d78e3747c0f.png)
 
+Blurred Greyscale <br />
+![image](https://user-images.githubusercontent.com/30327564/197327682-8fe82e52-85b8-4d43-b12a-b6f25b85e114.png)<br />
+
 Sobel X <br />
-![image](https://user-images.githubusercontent.com/30327564/197314881-8bb45c94-7a6a-4e23-9009-bea9ee2aaab1.png) <br />
+![image](https://user-images.githubusercontent.com/30327564/197327706-6283a8d3-3ffd-4cb4-96f1-d7a0b694b738.png) <br />
 
 Sobel Y <br />
-![image](https://user-images.githubusercontent.com/30327564/197314884-4aad8af5-0b39-4e95-b16d-701a5134754f.png) <br />
+![image](https://user-images.githubusercontent.com/30327564/197327720-2f597585-34a0-4dbc-bb3c-1fb91606e306.png) <br />
 
 Sobel Average <br />
-![image](https://user-images.githubusercontent.com/30327564/197314872-7c5e4e19-e4d2-4315-88eb-d98b8d351e6b.png) <br />
+!![image](https://user-images.githubusercontent.com/30327564/197327672-ec3b8165-5dda-4cb9-833f-3c4a25c37399.png) <br />
