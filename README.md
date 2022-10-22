@@ -11,6 +11,9 @@ TO:DO <br />
 -Double threshold <br />
 -Edge tracking by hysteresis <br />
 
+Original Image <br />
+![image](https://user-images.githubusercontent.com/30327564/197315137-20a25181-5c3a-4861-882f-9d78e3747c0f.png)
+
 Sobel X <br />
 ![image](https://user-images.githubusercontent.com/30327564/197314881-8bb45c94-7a6a-4e23-9009-bea9ee2aaab1.png) <br />
 
